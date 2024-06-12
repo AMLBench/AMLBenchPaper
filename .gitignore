@@ -1,0 +1,9 @@
+/data/amlsim
+/data/itaml
+/data/berka/parsed_data
+/data/rabo
+/results/
+.venv
+**/__pycache__/
+.idea
+log

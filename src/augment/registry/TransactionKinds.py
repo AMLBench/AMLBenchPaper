@@ -1,0 +1,5 @@
+CASH = 'cash'
+BANK_TRANSFER = 'bank_transfer'
+DEPOSIT = 'deposit'
+WITHDRAWAL = 'withdrawal'
+ASSET = 'asset'
